@@ -1,0 +1,17 @@
+{
+    "id": "periquito",
+    "nombre": "Kiko el Periquito",
+    "especie": "Periquito Mastrantero (Forpus passerinus)",
+    "habitat": "Arboledas, llanuras y jardines venezolanos",
+    "materia_principal": "Álgebra y Lógica",
+    "personalidad": "Chispeante, curioso, veloz como un rayo y amante de los acertijos.",
+    "lema": "¡Ningún acertijo se resiste cuando usas la lógica paso a paso!",
+    "archivo_render": "periquito_pixar.png",
+    "color_tema": "#84cc16",
+    "dialogos": {
+        "bienvenida": "¡Pío pío! ¡Llegó la hora de resolver misterios numéricos con balanzas y ecuaciones!",
+        "consejo": "Si una incógnita te parece difícil, despéjala con su operación inversa. ¡Es como desatar un nudo!",
+        "felicitacion": "¡Cerebro brillante! Resolviste la incógnita en tiempo récord.",
+        "pregunta": "Mira bien los dos lados de la balanza: ¿qué número mantiene el equilibrio perfecto?"
+    }
+}

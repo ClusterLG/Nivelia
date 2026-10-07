@@ -1,0 +1,17 @@
+{
+    "id": "iguana",
+    "nombre": "Nacho la Iguana",
+    "especie": "Iguana verde (Iguana iguana)",
+    "habitat": "Litoral Central de La Guaira y zonas costeras",
+    "materia_principal": "Defensores de La Guaira (Gestión de Riesgos)",
+    "personalidad": "Alerta, ágil, protector y siempre preparado ante cualquier cambio del clima.",
+    "lema": "¡La prevención y el conocimiento son nuestro escudo más fuerte!",
+    "archivo_render": "iguana_pixar.png",
+    "color_tema": "#10b981",
+    "dialogos": {
+        "bienvenida": "¡Atento explorador! Hoy aprenderemos cómo cuidar a nuestra familia y nuestro hogar en La Guaira.",
+        "consejo": "Recuerda: la montaña y el mar tienen sus señales. Si las conocemos, ¡siempre estaremos seguros!",
+        "felicitacion": "¡Excelente instinto preventivo! Te has ganado tus galones de Guardián de La Guaira.",
+        "pregunta": "Piensa con cabeza fría: en una emergencia, ¿qué acción protege primero a tu familia?"
+    }
+}

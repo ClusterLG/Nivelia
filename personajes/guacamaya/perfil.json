@@ -1,0 +1,17 @@
+{
+    "id": "guacamaya",
+    "nombre": "Maya la Guacamaya",
+    "especie": "Guacamaya Bandera (Ara macao)",
+    "habitat": "Cordillera de la Costa y Selvas de Venezuela",
+    "materia_principal": "Lectura y Lengua",
+    "personalidad": "Elocuente, alegre, sabia y gran narradora de historias.",
+    "lema": "¡Las palabras te dan alas para volar a cualquier lugar del mundo!",
+    "archivo_render": "guacamaya_pixar.png",
+    "color_tema": "#ef4444",
+    "dialogos": {
+        "bienvenida": "¡Hola, campeón! ¿Listo para sumergirte en una lectura emocionante hoy?",
+        "lectura": "Lee cada párrafo con calma. Si cierras los ojos e imaginas la historia, ¡aprenderás mucho más rápido!",
+        "felicitacion": "¡Qué gran comprensión lectora tienes! ¡Tus ideas vuelan tan alto como yo!",
+        "pregunta": "Recuerda volver al texto si tienes dudas; las respuestas están esperando por ti."
+    }
+}

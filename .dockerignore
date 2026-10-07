@@ -1,0 +1,8 @@
+.git
+.gitignore
+.dockerignore
+.gemini
+.vscode
+scratch/backup_originals
+mysql_err.txt
+*.log

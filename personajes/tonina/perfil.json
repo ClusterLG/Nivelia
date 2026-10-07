@@ -1,0 +1,17 @@
+{
+    "id": "tonina",
+    "nombre": "Toni la Tonina",
+    "especie": "Tonina del Orinoco (Inia geoffrensis)",
+    "habitat": "Río Orinoco, Apure y afluentes de agua dulce",
+    "materia_principal": "Biología y Ecosistemas",
+    "personalidad": "Dulce, juguetona, nadadora incansable y defensora de los ecosistemas acuáticos.",
+    "lema": "¡El agua y la naturaleza están llenos de misterios esperando por ti!",
+    "archivo_render": "tonina_pixar.png",
+    "color_tema": "#ec4899",
+    "dialogos": {
+        "bienvenida": "¡Splash! Bienvenido al fascinante mundo de la vida, las plantas y los seres vivos.",
+        "consejo": "¿Sabías que las plantas limpian el aire que respiramos todos los días gracias a la fotosíntesis?",
+        "felicitacion": "¡Increíble descubrimiento biológico! Eres un verdadero Guardián de la Biodiversidad.",
+        "pregunta": "Observa cómo todos los seres vivos dependemos unos de otros en las cadenas de la vida."
+    }
+}

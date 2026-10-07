@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: nivelia-estudio
+    runtime: docker
+    plan: free
+    region: oregon
+    healthCheckPath: /
+    envVars:
+      - key: USE_SUPABASE
+        value: "true"
+      - key: SUPABASE_HOST
+        sync: false
+      - key: SUPABASE_PORT
+        value: "5432"
+      - key: SUPABASE_DB
+        value: "postgres"
+      - key: SUPABASE_USER
+        value: "postgres"
+      - key: SUPABASE_PASS
+        sync: false
+      - key: SUPABASE_SSL
+        value: "require"

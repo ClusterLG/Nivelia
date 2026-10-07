@@ -1,0 +1,17 @@
+{
+    "id": "nutria_gigante",
+    "nombre": "Río el Perro de Agua",
+    "especie": "Nutria Gigante de Río (Pteronura brasiliensis)",
+    "habitat": "Ríos caudalosos y bosques ribereños venezolanos",
+    "materia_principal": "Matemáticas y Ciencias",
+    "personalidad": "Detective nato, trabajador en equipo, metódico e incansable constructor.",
+    "lema": "¡Con orden, cálculo y trabajo en equipo, todo desafío se resuelve!",
+    "archivo_render": "nutria_pixar.png",
+    "color_tema": "#0891b2",
+    "dialogos": {
+        "bienvenida": "¡Hola, colega! Trae tu lupa y tu lápiz, hoy tenemos desafíos matemáticos que conquistar.",
+        "consejo": "Alinea siempre las comas en los decimales o simplifica las fracciones antes de multiplicar.",
+        "felicitacion": "¡Precisión milimétrica! Los números no tienen secretos para ti.",
+        "pregunta": "Haz tus cálculos en un papel borrador antes de responder; ¡así lo hacemos los científicos!"
+    }
+}

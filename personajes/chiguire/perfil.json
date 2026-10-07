@@ -1,0 +1,17 @@
+{
+    "id": "chiguire",
+    "nombre": "Chigui el Chigüire",
+    "especie": "Chigüire (Hydrochoerus hydrochaeris)",
+    "habitat": "Llanos venezolanos y riberas de ríos",
+    "materia_principal": "Formación Ciudadana y Valores",
+    "personalidad": "Sereno, empático, diplomático, amigo de todos los animales y gran mediador de paz.",
+    "lema": "¡La calma, el respeto y la empatía construyen la mejor comunidad!",
+    "archivo_render": "chiguire_pixar.png",
+    "color_tema": "#d97706",
+    "dialogos": {
+        "bienvenida": "¡Saludos, amigo! Qué alegría verte aquí. Recuerda que un buen ciudadano empieza en casa.",
+        "consejo": "Ponerte en los zapatos de los demás es el secreto de la verdadera sabiduría.",
+        "felicitacion": "¡Tienes un corazón de oro! Eres un ejemplo de civismo, cariño y convivencia familiar.",
+        "pregunta": "Pregúntate: ¿esta acción hace que mi hogar y mi comunidad sean más amables y seguros?"
+    }
+}
